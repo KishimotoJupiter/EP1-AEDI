@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-class PilhaIngenua3{
+class PilhaIngenua2{
   static void gerador(File arq){
     try{
       PilhaIngenua PI = new PilhaIngenua();
